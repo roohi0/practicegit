@@ -1,2 +1,3 @@
 Welcome to git class :)
 tell me your name :-
+tell me your hobbies:-
