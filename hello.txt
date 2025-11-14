@@ -6,3 +6,4 @@ why did you choose this course??
 age :
 education details:
 phone number:
+These are the basic details
